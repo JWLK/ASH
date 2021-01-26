@@ -17,12 +17,12 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:fontFamily="@font/nsq_eb"
             android:text="@string/app_name"
             android:textAlignment="center"
-            android:textSize="32sp"
+            android:textAllCaps="true"
             android:textColor="@color/colorPrimary"
-            android:fontFamily="@font/nsq_eb"
-            android:textAllCaps="true">
+            android:textSize="32sp">
 
         </TextView>
 
